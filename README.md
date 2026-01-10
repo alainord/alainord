@@ -24,6 +24,6 @@ I am also interested in **business**, **product strategy** and **enterpreneurshi
 - Learning new AI techniques and **human-centered design** as part of my Final Degree Project
 
 ## How to reach me
-- GitHub: **Alainord**
+- GitHub: **alainord**
 - Linkedin: [My profile](https://www.linkedin.com/in/alain-ordo%C3%B1ez-166b282b2/)
 - Gmail: **ord.alain@gmail.com**
