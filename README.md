@@ -4,6 +4,7 @@ My name is Alain,
 
 I’m a **computer engineering student in Mondragon Unibertsitatea**, currently doing my 4th year, with a strong interest in **applied AI** and **backend development**.
 I am also interested in **business**, **product strategy** and **enterpreneurship** specially focused in **sustainable and usefull products on real-life context**.
+I am currently online working as a freelance in upwork platform, I am mainly in **Business inteligence with Power BI and excel** but I can also work on other projects as I explain before
 
 ## What I Work With
 - Python, Java, C
@@ -26,4 +27,5 @@ I am also interested in **business**, **product strategy** and **enterpreneurshi
 ## How to reach me
 - GitHub: **alainord**
 - Linkedin: [My profile](https://www.linkedin.com/in/alain-ordo%C3%B1ez-166b282b2/)
+- UpWork: [My profile]([https://www.linkedin.com/in/alain-ordo%C3%B1ez-166b282b2/](https://www.upwork.com/freelancers/~014ef51eecf534a541?mp_source=share))
 - Gmail: **ord.alain@gmail.com**
