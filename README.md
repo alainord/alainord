@@ -27,5 +27,5 @@ I am currently online working as a freelance in upwork platform, I am mainly in 
 ## How to reach me
 - GitHub: **alainord**
 - Linkedin: [My profile](https://www.linkedin.com/in/alain-ordo%C3%B1ez-166b282b2/)
-- UpWork: [My profile]([https://www.linkedin.com/in/alain-ordo%C3%B1ez-166b282b2/](https://www.upwork.com/freelancers/~014ef51eecf534a541?mp_source=share))
+- UpWork: [My profile](https://www.upwork.com/freelancers/~014ef51eecf534a541?mp_source=share)
 - Gmail: **ord.alain@gmail.com**
