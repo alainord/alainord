@@ -2,7 +2,7 @@
 
 My name is Alain, 
 
-I’m a **computer engineering student in Mondragon Unibertsitatea**, currently doing my 4th year, with a strong interest in **applied AI** and **backend development**.
+I’m a **computer engineer**, with a strong interest in **applied AI** and **backend development**.
 I am also interested in **business**, **product strategy** and **enterpreneurship** specially focused in **sustainable and usefull products on real-life context**.
 I am currently online working as a freelance in upwork platform, I am mainly in **Business inteligence with Power BI and excel** but I can also work on other projects as I explain before
 
